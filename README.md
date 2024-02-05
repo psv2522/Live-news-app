@@ -2,11 +2,11 @@
 
 Note: If the 100 api requests per month get exhausted it may throw errors, in that case please contact me using twitter or linkedin so that i can change the API KEY.
 
-The app uses caching by default to avoid excess API CALLS and avoid breakage due to limitations on the free api of mediastack.
+The app uses caching by default to avoid excess API calls and avoid breakage due to limitations on the free api of mediastack.
 
-In the future i plan to add a better news api
+In the future i plan to add a better news api.
 
-Make a .env file and add the following keys
+Make a .env file and add the following keys:
 ```bash
 MEDIASTACK_API_KEY
 STEPZEN_API_KEY
