@@ -15,11 +15,10 @@ Stepzen needs to be setup it is mostly used to convert REST API to GraphQL in th
 Mediastack is the news api to fetch data
 
 
-First, run the development server:
-
+Run the following commands
 ```bash
+npm install
 npm run dev
-
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the website.
