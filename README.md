@@ -4,7 +4,7 @@ Note: If the 100 api requests per month get exhausted it may throw errors, in th
 
 The app uses caching by default to avoid excess API calls and avoid breakage due to limitations on the free api of mediastack.
 
-In the future i plan to add a better news api.
+In the future i plan to add a better news api, or something that reads rss feeds directly and gives a AI summary of the news.
 
 Make a .env file and add the following keys:
 ```bash
